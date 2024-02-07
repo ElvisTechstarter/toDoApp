@@ -1,0 +1,17 @@
+.mainContainer {
+  width: 20px;
+  min-height: 50px;
+  background-color: rgb(247, 247, 247);
+}
+
+.following {
+  background-color: #dabb7b;
+  padding: 200px;
+  border-radius: 10px;
+}
+
+.follow {
+  background-color: rgb(129, 129, 129);
+  padding: 200px;
+  border-radius: 10px;
+}
